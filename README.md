@@ -23,6 +23,9 @@ We aim to build a web application, which helps the victims of a disaster to loca
 
 All these information will be recorded in our database and made available to the victims  through this web-app and then he/she can decide which house to choose.
 
+![fd](https://user-images.githubusercontent.com/44080377/46851364-e1565780-ce14-11e8-9947-e63ea7d1761d.PNG)
+
+
 # TECHNOLOGIES:
 
 The Azure Maps search service helps the person in need to locate the open door houses where he/she can find shelter during the calamity.
@@ -30,7 +33,7 @@ The Azure Maps search service helps the person in need to locate the open door h
 2. We shall use features of Azure Map API like Near-By search to locate all the shelters in a definite range of the location of evacuee.
 3. Each such location when selected shall give the required details.
 
-![fd](https://user-images.githubusercontent.com/44080377/46851364-e1565780-ce14-11e8-9947-e63ea7d1761d.PNG)
+![kk](https://user-images.githubusercontent.com/44080377/46851412-14005000-ce15-11e8-9fa6-52b3e9edd8f4.PNG)
 
 
 # POSITIVES:
