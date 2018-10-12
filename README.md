@@ -36,7 +36,7 @@ The Azure Maps search service helps the person in need to locate the open door h
 ![kk](https://user-images.githubusercontent.com/44080377/46851412-14005000-ce15-11e8-9fa6-52b3e9edd8f4.PNG)
 
 
-# POSITIVES:
+## POSITIVES:
 
 1. This helps to reduce the overcrowding and ill management at public rescue shelters and thus helps in better allocation of shelter to the evacuees.<br/>
 2. Further the detail about presence of a woman in the house will specially mark it to ensure the comfortable stay of female evacuees.
