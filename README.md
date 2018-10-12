@@ -30,6 +30,9 @@ The Azure Maps search service helps the person in need to locate the open door h
 2. We shall use features of Azure Map API like Near-By search to locate all the shelters in a definite range of the location of evacuee.
 3. Each such location when selected shall give the required details.
 
+![fd](https://user-images.githubusercontent.com/44080377/46851364-e1565780-ce14-11e8-9947-e63ea7d1761d.PNG)
+
+
 # POSITIVES:
 
 1. This helps to reduce the overcrowding and ill management at public rescue shelters and thus helps in better allocation of shelter to the evacuees.
